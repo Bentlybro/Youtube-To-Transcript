@@ -25,3 +25,4 @@ To use the script, simply follow these steps:
 Contributions to enhance the script are welcome! If you encounter any issues or have suggestions, please feel free to open an issue or submit a pull request.
 
 ---
+[If You Like This Project Join My Discord Server](https://discord.gg/XbrtTTM2ZZ)
